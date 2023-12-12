@@ -1,0 +1,76 @@
+{
+    "credentials": {
+        "email": "testsyve@gmail.com",
+        "password": "Syve1234"
+    },
+    "url": {
+        "home_page": "http://www.automationpractice.pl/index.php",
+        "dresses_page": "http://www.automationpractice.pl/index.php?id_category=8&controller=category",
+        "contact_page": "http://www.automationpractice.pl/index.php?controller=contact",
+        "sort_url": "orderway=asc"
+    },
+    "titles": {
+        "home_page": "My Shop",
+        "login": "My account - My Shop",
+        "dresses": "Dresses - My Shop",
+        "contact_page" : "CUSTOMER SERVICE - CONTACT US"
+    },
+    "new_account_checker": {
+        "firstName": "Test",
+        "lastName": "Person",
+        "password": "Syve1234",
+        "day": "15",
+        "month": "May",
+        "year": "1991",
+        "address": "Zenica2, South Dakota",
+        "zip": "65432",
+        "city": "Sarajevo",
+        "country": "United States",
+        "phone": "0600012345",
+        "phone_mobile": "0600012345"
+    },
+    "order": {
+        "comment": "Nothing to add!",
+        "reference" : "111",
+        "message" : "Just a feedback : It's a pleasant experience using your page. If only you could resolve the bugs and errors showing and enable the option to checkout, it would be great and you would probably attract a lot more customers. Besides that, good work!",
+        "confirmation" : "Your message has been successfully sent to our team."
+    },
+    "headers": {
+        "sort": "Sort by",
+        "view": "View",
+        "tshirts": "T-SHIRTS",
+        "women": "WOMEN",
+        "comparison": "PRODUCT COMPARISON",
+        "price_range" : "Price"
+    },
+    "product_options": {
+        "dress": "Printed Chiffon Dress"
+    },
+    "filters": {
+        "summer_dress": "Printed Summer Dress",
+        "category": "Summer Dress",
+        "category_number": "3",
+        "availability": "In stock",
+        "availability_number":"1",
+        "size": "M",
+        "size_number": "3",
+        "color": "Orange",
+        "color_number": "1",
+        "properties": "Maxi Dress",
+        "property_number": "1",
+        "compositions" : "Viscose",
+        "composition_number": "1",
+        "styles": "Casual",
+        "style_number": "1",
+        "condition": "New product",
+        "condition_number": "1"
+    }, 
+    "price": {
+        "left_slide" : "25",
+        "right_slide" : "35",
+        "items" : "Showing 1 - 3 of 3 items",
+        "filters" : "Showing 1 - 1 of 1 items",
+        "style_category" : "Styles",
+        "compositions_category" : "Compositions"
+    }
+}
